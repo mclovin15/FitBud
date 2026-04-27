@@ -5,7 +5,7 @@ Un projet web développé en 2022 dans le cadre de mes études collégiales. L'a
 
 ## Fonctionnalités Principales
 * **Catalogue visuel :** Consultation de l'inventaire des exercices disponibles avec un support visuel (images).
-* **Gestion des exercices (CRUD) :** * Ajout de nouveaux exercices à la base de données.
+* **Gestion des exercices (CRUD) :** Ajout de nouveaux exercices à la base de données.
   * Modification des informations des exercices existants.
   * Suppression d'exercices de l'inventaire.
 * **Programmes sur mesure :** Création et sauvegarde de plans d'entraînement personnalisés.
